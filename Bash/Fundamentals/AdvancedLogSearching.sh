@@ -38,5 +38,3 @@ if [ "$#" -ne 2 ]; then
 fi
 
 search_logs "$1" "$2"
-
-

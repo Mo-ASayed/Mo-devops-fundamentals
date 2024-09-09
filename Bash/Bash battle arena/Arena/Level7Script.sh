@@ -7,3 +7,4 @@ find . -type f -name "*.txt" -exec du -b {} + | sort -n | while read size file; 
   # Output file name and size
   echo "$file - $size bytes"
 done
+

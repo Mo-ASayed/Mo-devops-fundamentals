@@ -6,4 +6,4 @@ What is Linux?
 
 Linux is an Kernel
 
-Linux is 
+Linux is xyz

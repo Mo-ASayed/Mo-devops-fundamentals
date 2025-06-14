@@ -9,4 +9,4 @@ Why do we need Git?
 How do we use Git?
 
 
-How toh
+How to ise got

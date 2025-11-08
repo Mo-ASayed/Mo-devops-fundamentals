@@ -27,4 +27,3 @@ Feel free to **follow along** as I document my learning process. If you have sug
 Keep an eye on this repository for updates and new scripts. Let’s learn and grow together in the world of Bash scripting!
 
 
-Test
